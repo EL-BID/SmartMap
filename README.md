@@ -1,6 +1,8 @@
 *Esta herramienta digital está publicada en la página web de la iniciativa [Código para el Desarrollo](http://code.iadb.org/es/repositorio/22/smartmap)*
 
 ## SMARTMAP
+[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/SmartMap/readme?useReferer)](https://github.com/EL-BID/SmartMap)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_SmartMap&metric=alert_status)](https://sonarcloud.io/dashboard?id=EL-BID_SmartMap)
 
 ### Descripción
 ---
